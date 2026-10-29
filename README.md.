@@ -1,0 +1,18 @@
+BBIM709 — DMart Big Data Analytics Assessment 2
+Dataset Information
+Dataset Name: DMart Sample Dataset
+Source:Kaggle
+Dataset URL:https://www.kaggle.com/datasets/nafisansari/dmart-sample-dataset
+Dataset Size: 76.46 MB
+Total Records:1,000,000
+Total Columns: 8
+
+Project Overview
+This project uses Apache Spark, Databricks and Delta Lake to analyse DMart retail transaction data.
+
+Task 1: Data ingestion, cleaning, transformation and Delta Lake optimisation.
+Task 2: MapReduce-style processing, data partitioning and performance evaluation.
+Task 3: Random Forest classification and regression, ARIMA and SARIMA forecasting.
+
+Dataset Access
+Download the original dataset from the Kaggle URL above. Extract the CSV file and upload it to a Databricks Unity Catalog volume to reproduce the analysis.
